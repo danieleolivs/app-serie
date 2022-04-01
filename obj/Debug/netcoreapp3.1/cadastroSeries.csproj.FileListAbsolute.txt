@@ -1,0 +1,4 @@
+C:\Users\danie\Documents\GitHub\cadastroSeries\obj\Debug\netcoreapp3.1\cadastroSeries.csprojAssemblyReference.cache
+C:\Users\danie\Documents\GitHub\cadastroSeries\obj\Debug\netcoreapp3.1\cadastroSeries.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\GitHub\cadastroSeries\obj\Debug\netcoreapp3.1\cadastroSeries.AssemblyInfo.cs
+C:\Users\danie\Documents\GitHub\cadastroSeries\obj\Debug\netcoreapp3.1\cadastroSeries.csproj.CoreCompileInputs.cache
